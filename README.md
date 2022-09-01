@@ -47,7 +47,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Diaz15&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Diaz15&theme=tokyonight&layout=compact" alt="Most Used Languages" />
   </p>
 
   <p>
