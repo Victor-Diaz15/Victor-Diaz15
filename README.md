@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Dominican Republic 🇩🇴</h3>
 
 <div align="center">
-  🎎 I'm currently working on my professional growth, creating personal projects and applying all the knowledge acquired in the course of this wonderful world of programming. <br>
+  🎎 I'm currently working at Ministerio de Economía, Planificación y Desarrollo as Senior Programmer Technician. <br>
   📫 Email via <a href="mailto:victordiaz123julioarias@gmail.com">victordiaz123julioarias@gmail.com</a> to reach me. <br>
   🌱 I’m currently learning <b> C# with ASP.NET & Angular </b> <br>
   👯 I’m looking to collaborate on <b> FullStack projects in a big company </b> <br>
@@ -47,11 +47,11 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Diaz15&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor_Diaz15&theme=tokyonight&layout=compact" alt="Most Used Languages" />
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Victor-Diaz15&show_icons=true&theme=tokyonight" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Victor_Diaz15&show_icons=true&theme=tokyonight" alt="Github Stats" />
   </p>
 </div>
 
