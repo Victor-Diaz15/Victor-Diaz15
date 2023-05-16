@@ -45,13 +45,16 @@
 <br>
 <hr/>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Diaz15&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-  </p>
+<h3 align="center">GitHub Statistics</h3>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Victor-Diaz15&show_icons=true&theme=tokyonight" alt="Github Stats" />
-  </p>
+<div align="center">
+  <a href="https://github.com/Victor-Diaz15">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Diaz15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Diaz15&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/Victor-Diaz15/Victor-Diaz15/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
