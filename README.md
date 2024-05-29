@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Victor Diaz 👨🏽‍💻</h1>
-<h3 align="center">A passionate Web Developer from Dominican Republic 🇩🇴</h3>
+<h3 align="center">A passionate Backend Developer from Dominican Republic 🇩🇴</h3>
 
 <div align="center">
-  🎎 I'm currently working at Ministerio de Economía, Planificación y Desarrollo as Senior Programmer Technician. <br>
+  🎎 I'm currently working at Banreservas as Integracion Engineer. <br>
   📫 Email via <a href="mailto:victordiaz123julioarias@gmail.com">victordiaz123julioarias@gmail.com</a> to reach me. <br>
-  🌱 I’m currently learning <b> C# with ASP.NET & Angular </b> <br>
   👯 I’m looking to collaborate on <b> FullStack projects in a big company </b> <br>
   ⚡ Fun fact: Love Chess & solve rubiks cube.
 </div>
