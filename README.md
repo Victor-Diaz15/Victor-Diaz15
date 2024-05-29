@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from Dominican Republic 🇩🇴</h3>
 
 <div align="center">
-  🎎 I'm currently working at Banreservas as Integracion Engineer. <br>
+  🎎 I'm currently working at Banreservas as Integration Engineer. <br>
   📫 Email via <a href="mailto:victordiaz123julioarias@gmail.com">victordiaz123julioarias@gmail.com</a> to reach me. <br>
   👯 I’m looking to collaborate on <b> FullStack projects in a big company </b> <br>
   ⚡ Fun fact: Love Chess & solve rubiks cube.
